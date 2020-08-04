@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/54c5ee76-d7ad-48be-831e-a4dbafc8ded8/resourceGroups/Contacts_RG/providers/Microsoft.Web/sites/RohanPatientApp",
+    "appService.deploySubpath": "dist"
+}
